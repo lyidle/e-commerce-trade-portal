@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunke_commerce"]=self["webpackChunke_commerce"]||[]).push([[40],{6659:function(e,r,n){n.r(r),n.d(r,{default:function(){return f}});var u=function(){var e=this,r=e._self._c;return r("div",[e._v(" 我是团购订单内容 ")])},c=[],t={name:"groupOrder"},a=t,l=n(1656),s=(0,l.A)(a,u,c,!1,null,"acae0764",null),f=s.exports}}]);

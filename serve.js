@@ -16,7 +16,7 @@ const history = require("connect-history-api-fallback");
 // 反向代理
 const { createProxyMiddleware } = require("http-proxy-middleware");
 app.use(history());
-app.use(express.static(__dirname + "/static"));
+app.use(express.static(__dirname + "/dist"));
 
 // 反代
 app.use(
